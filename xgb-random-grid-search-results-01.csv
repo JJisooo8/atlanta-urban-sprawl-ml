@@ -1,6 +1,0 @@
-mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_subsample,param_min_child_weight,param_max_depth,param_gamma,param_colsample_bytree,params,split0_test_score,split1_test_score,split2_test_score,mean_test_score,std_test_score,rank_test_score
-0.4166290760040283,0.011532153417467909,0.0046723683675130205,0.0030348096137620692,1.0,5,3,5,1.0,"{'subsample': 1.0, 'min_child_weight': 5, 'max_depth': 3, 'gamma': 5, 'colsample_bytree': 1.0}",,,,,,1
-1.0189748605092366,0.0481283678690629,0.0016289552052815754,0.00044240901399974017,0.6,1,5,1.5,0.8,"{'subsample': 0.6, 'min_child_weight': 1, 'max_depth': 5, 'gamma': 1.5, 'colsample_bytree': 0.8}",,,,,,1
-0.8290382226308187,0.004206536713748231,0.001188357671101888,9.721639175233898e-05,0.8,5,5,1,0.8,"{'subsample': 0.8, 'min_child_weight': 5, 'max_depth': 5, 'gamma': 1, 'colsample_bytree': 0.8}",,,,,,1
-0.6802030404408773,0.04359170022724853,0.001154184341430664,5.8711351673521976e-05,1.0,5,5,5,0.6,"{'subsample': 1.0, 'min_child_weight': 5, 'max_depth': 5, 'gamma': 5, 'colsample_bytree': 0.6}",,,,,,1
-0.749225934346517,0.00109922113586401,0.0008373260498046875,7.538125376122625e-05,0.8,1,4,1,1.0,"{'subsample': 0.8, 'min_child_weight': 1, 'max_depth': 4, 'gamma': 1, 'colsample_bytree': 1.0}",,,,,,1
